@@ -1,0 +1,103 @@
+<div class="home-slider-wrapper partner-with-us">
+  <section id="rentals" class="home-slider royalSlider rsDefault fwImage hidden-print rsHor rsFade">
+    <div class="rsOverflow">
+      <div class="rsContainer">
+        <h2>Partner With Us</h2>
+        <div style="z-index:0;" class="rsSlide">
+          <div class="rsContent" style="visibility: visible; transition: opacity 400ms ease-in-out; opacity: 1;">
+            <img src="/assets/themes/896/images/partner_banner.jpg" class="rsImg rsMainSlideImage" style="width: 100%; margin-left: 0px;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<section class="partner-with-us brick brick-alternate">
+    <div class="container">
+    <h2 style="text-align: center;">Leasing to Zencity</h2>
+      <div class="intro">
+      <p>Earn steady monthly revenue by leasing your property to Zencity. At Zencity, we lease properties, furnish and outfit them to our exacting standards, and host carefully screened business and leisure travelers. We also excel at renting multiple properties at once, often pre-signing leases to fill upcoming vacancies so you can enjoy 100% year-round occupancy.
+      </p>
+      </div>
+      <div class="row">
+        <div class="col-sm-4 usp">
+          <div class="panel panel-primary">
+            <div class="standard-amenities-icon">
+              <img src="/assets/themes/896/images/partner_icon_1.png" style="height:100%; width:100%;">
+            </div>
+            <h3>Earn money quickly</h3>
+            <p>Earn more income by partnering with the best in the industry.</p>
+          </div>
+        </div>
+        <div class="col-sm-4 usp">
+          <div class="panel panel-primary">
+            <div class="standard-amenities-icon">
+              <img src="/assets/themes/896/images/partner_icon_2.png" style="height:100%; width:100%;">
+            </div>
+            <h3>Hands-off management</h3>
+            <p>We handle everything, and your personal account manager keeps you up-to-date.</p>
+          </div>
+        </div>
+        <div class="col-sm-4 usp">
+          <div class="panel panel-primary">
+            <div class="standard-amenities-icon">
+              <img src="/assets/themes/896/images/partner_icon_3.png" style="height:100%; width:100%;">
+            </div>
+            <h3>It's all under control</h3>
+            <p>Thanks to verified tenants, professional cleaning, and regular quality audits.</p>
+          </div>
+        </div>
+      </div>
+    <hr>
+    <h2 style="text-align: center; margin-top: 56px;">How it works</h2>
+    <div class="timeline">
+      <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+      <div class="timeline-title">Selection</div>
+      <div class="timeline-description">We hand-select properties for extended stay rentals based on their fit within the overall Zencity portfolio—unique, secure, comfortable, and located in the most desirable neighborhoods.</div>
+      </div>
+      </div>
+      <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+      <div class="timeline-title">Legality</div>
+      <div class="timeline-description">We make sure that each property we take on complies with rental and zoning laws, and we remit all applicable taxes.</div>
+      </div>
+      </div>
+      <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+      <div class="timeline-title">Design</div>
+      <div class="timeline-description">Combining our supplier relationships with our design expertise, we furnish units with a meticulous focus on both form and function.</div>
+      </div>
+      </div>
+      <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+      <div class="timeline-title">Security</div>
+      <div class="timeline-description">Each occupant is thoroughly screened and we partner with leaders in the industry to continually improve security measures.</div>
+      </div>
+      </div>
+      <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+      <div class="timeline-title">Protection</div>
+      <div class="timeline-description">We have commercial-grade insurance policies underwritten specifically for our business, just in case.</div>
+      </div>
+      </div>
+      <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+      <div class="timeline-title">Care</div>
+      <div class="timeline-description">Our housekeeping team cleans the units regularly and immediately reports any maintenance issues or damage, guaranteeing any problems will be taken care of right away.</div>
+      </div>
+      </div>
+    </div>
+    <h2 style="text-align: center; margin-top: 48px;">We'd love to learn about your property</h2>
+    <p style="text-align: center; margin-top: 12px;">Send us a note and an account manager will be in touch.</p>
+    <a href="/en/contact" class="btn" style="margin-top: 24px;">Contact Us</a>
+     
+     
+  </div>
+</section>
